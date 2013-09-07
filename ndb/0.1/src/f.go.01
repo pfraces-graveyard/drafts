@@ -1,0 +1,21 @@
+package main
+
+
+import (
+	"./list"
+	"./io"
+)
+
+// que reciba la db de un parametro de linea de comandos
+func main() {
+	db := io.Open("/home/pau/dev/go/test/ndb0.0/foo.ndb")
+	defer db.Close()
+
+	l := list.New(db)
+	l.Append([]byte("foo"))
+	l.Insert(1, []byte("man"))
+	l.Insert(2, []byte("choo"))
+	l.Insert(1, []byte("barry"))
+	l.Dump()
+}
+
