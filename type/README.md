@@ -1,6 +1,6 @@
 # Type
 
-Type system inspired in go interfaces
+Type system inspired in [go interfaces][1]
 
 # Built-in types
 
@@ -58,4 +58,6 @@ Type system inspired in go interfaces
     type.alias({
       boolean: 'bool',
       string: ['str', 's']
+
+[1]: http://golang.org/doc/effective_go.html#interfaces_and_types
     });
