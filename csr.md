@@ -1,5 +1,4 @@
-c spreadsheet render
-====================
+# csr - c spreadsheet render
 
 La primera capa debia ser un set de comandos escritos en bash que permitiesen
 la creación y administración de diferentes hojas de cálculo, sin embargo, a la
@@ -22,8 +21,7 @@ Las siguientes capas se encargaran del resto, se podrán escribir en bash o rc
 y usarán este render para la resolución de las hojas de cálculo
 
 
-formato de fichero
-==================
+## formato de fichero
 
 Siguiendo con el diseño inicial, el fichero se compone de filas separadas por
 el caracter de salto de linea '\n' cada una de ellas compesta por columnas
@@ -36,18 +34,18 @@ Siguiendo el modelo matemático, cada celda se identifica con la coordenada del
 eje x (horizontal/columna) al principio seguida de la coordenada del eje y
 (vertical/fila)
 
-Ejemplo:
+### Ejemplo
 
-celda 1, 1 | celda 2, 1 | celda 3, 1
-celda 1, 2 | celda 2, 2 | celda 3, 2
-celda 1, 3 | celda 2, 3 | celda 3, 3
+    celda 1, 1 | celda 2, 1 | celda 3, 1
+    celda 1, 2 | celda 2, 2 | celda 3, 2
+    celda 1, 3 | celda 2, 3 | celda 3, 3
 
 
-formato de celda
-================
+## formato de celda
 
 Cada celda puede contener únicamente uno de los dos tipos de datos disponibles
 o una combinación de ellos:
+
 - Literal
 - Fórmula
 
@@ -59,3 +57,4 @@ tabla a la salida estándar
 
 Lo único que diferencia un literal de una fórmula es que la fórmula está
 contenida entre llaves '{}'
+
