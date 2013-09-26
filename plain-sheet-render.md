@@ -1,4 +1,4 @@
-# csr - c spreadsheet render
+# plain sheet render
 
 La primera capa debia ser un set de comandos escritos en bash que permitiesen
 la creación y administración de diferentes hojas de cálculo, sin embargo, a la
