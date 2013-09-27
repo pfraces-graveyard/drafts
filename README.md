@@ -15,6 +15,19 @@ all the files with **visionmedia**'s `ejs`
 
 Use `rc`, `prompt` and a custom requirements file for template compilation
 
+## Typed
+
+Structure definions
+
+Checks based on *go interfaces*
+
+## Argue
+
+Define function interfaces based on `typed`
+
+Create an API for function overloading based on one main function and multiple
+argument preprocessor functions
+
 # Services
 
 ## knowledge dependency manager
