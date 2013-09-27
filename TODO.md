@@ -21,3 +21,7 @@
 *   create a local and github repo
 *   git add + commit + push
 *   semver bumps
+
+# drafts
+
+*   add use cases describing why that draft can be useful

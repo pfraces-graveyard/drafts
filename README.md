@@ -28,6 +28,20 @@ Define function interfaces based on `typed`
 Create an API for function overloading based on one main function and multiple
 argument preprocessor functions
 
+## Pathy
+
+Object path traversal
+
+Catch undefined property exceptions by returning undefined
+
+    var obj = pathy({}, 'foo.bar.qux', 123) // { foo: { bar: { qux: 123 } } }
+    console.log(pathy(obj, 'foo.bar')) // { qux: 123 }
+
+Create `pathy-lib` with a simple function definition, and `pathy` as different
+package with improved JavaScript API and a `clio`-based CLI API
+
+If this pattern succeeds document it at `module-design-patterns.md`
+
 # Services
 
 ## knowledge dependency manager
