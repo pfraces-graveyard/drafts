@@ -49,7 +49,7 @@ Own web language compiler
 
 # Specs
 
-## mog
+## Mog
 
 Markdown over git
 
