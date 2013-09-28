@@ -49,6 +49,12 @@ Own web language compiler
 
 # Specs
 
+## mog
+
+Markdown over git
+
+A simple spec for wiki systems
+
 ## Owl
 
 Own web language
