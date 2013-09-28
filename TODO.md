@@ -2,15 +2,18 @@
 
 1.  bdd framework
     *   prj
-        *   tpl
+        *   plat
+            *   clide
 
 2.  issuer
     *   json-filter
     *   [learn] node-github
 
 3.  sync, distro
-    *   dotfiles
-        *   config-bootstrap
+    *   my-dotfiles
+        *   dotfiles
+            *   plat
+                *   clide
 
 # grunt
 
