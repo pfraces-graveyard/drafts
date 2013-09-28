@@ -4,10 +4,6 @@ To do projects
 
 # Libs
 
-## Clio
-
-`prompt`, `optimist` and `rc` integration
-
 ## Typed
 
 Structure definions
