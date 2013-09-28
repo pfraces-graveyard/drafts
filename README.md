@@ -8,13 +8,6 @@ To do projects
 
 `prompt`, `optimist` and `rc` integration
 
-## Tpl
-
-Populate a directory copying the structure from a template directory compiling
-all the files with **visionmedia**'s `ejs`
-
-Use `rc`, `prompt` and a custom requirements file for template compilation
-
 ## Typed
 
 Structure definions
