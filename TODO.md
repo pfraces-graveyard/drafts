@@ -15,6 +15,10 @@
             *   plat
                 *   clide
 
+# clide
+
+*   debug
+
 # grunt
 
 *   bdd
