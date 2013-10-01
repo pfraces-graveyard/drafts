@@ -3,7 +3,6 @@
 1.  bdd framework
     *   prj
         *   plat
-            *   clide
 
 2.  issuer
     *   json-filter
@@ -13,11 +12,14 @@
     *   my-dotfiles
         *   dotfiles
             *   plat
-                *   clide
 
 # clide
 
-*   debug
+*   new api
+
+# plat
+
+*   wait for clide@0.2
 
 # grunt
 
