@@ -2,7 +2,7 @@
 
 1.  bdd framework
     *   prj
-        *   plat
+        *   scaf
 
 2.  issuer
     *   json-filter
@@ -11,7 +11,7 @@
 3.  sync, distro
     *   my-dotfiles
         *   dotfiles
-            *   plat
+            *   scaf
 
 # clide
 
