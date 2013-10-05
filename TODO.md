@@ -13,14 +13,6 @@
         *   dotfiles
             *   scaf
 
-# clide
-
-*   new api
-
-# plat
-
-*   wait for clide@0.2
-
 # grunt
 
 *   bdd
