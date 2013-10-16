@@ -39,17 +39,6 @@ Bits of human worth reading knowledge ordered by dependency
 
 # Tools
 
-## inca - Inca's Not Chromium Altered
-
-Uzbl ideas applied on node-webkit
-
-*   chromeless window
-*   windowless daemon from which launch the windows
-*   daemon with a tcp port listening
-*   tcp client for the daemon
-
-Offering a CLI from which browse the web
-
 ## Owl compiler
 
 Own web language compiler
