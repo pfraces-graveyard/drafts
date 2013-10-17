@@ -1,5 +1,8 @@
 # To Do
 
+[bug clide][1]
+[1]: https://github.com/pfraces/clide/issues/13
+
 1.  bdd framework
     *   prj
 
