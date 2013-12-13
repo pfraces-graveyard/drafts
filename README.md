@@ -31,6 +31,23 @@ package with improved JavaScript API and a `clio`-based CLI API
 
 If this pattern succeeds document it at `module-design-patterns.md`
 
+## json-reduce
+
+JSON parser. Reduce JSON object into simpler one based on custom filters
+
+1.  json-reduce sync
+2.  shell tool sync
+3.  json-stream-reduce async
+4.  shell tool sync
+
+# Acknowledgements
+
+*   [dominictarr's JSONStream][1]
+
+## need
+
+system-agnostic dependency manager
+
 # Services
 
 ## knowledge dependency manager
@@ -84,3 +101,5 @@ Browser puzzle game based on sokoban
 
 Browser platform game with Thor's son as main character and a magic helmet as
 main (maybe unique) weapon
+
+[1]: https://github.com/dominictarr/JSONStream
