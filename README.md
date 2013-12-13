@@ -40,7 +40,7 @@ JSON parser. Reduce JSON object into simpler one based on custom filters
 3.  json-stream-reduce async
 4.  shell tool sync
 
-# Acknowledgements
+### Acknowledgements
 
 *   [dominictarr's JSONStream][1]
 
