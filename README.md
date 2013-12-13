@@ -89,6 +89,10 @@ A collection of *phases* of precompilators
 
 # Games
 
+## magic online
+
+Web platform to build magic-like online games
+
 ## dungeon master assistant
 
 Web UI for `AD&D` masters
@@ -99,7 +103,7 @@ Browser puzzle game based on sokoban
 
 ## Helmet
 
-Browser platform game with Thor's son as main character and a magic helmet as
-main (maybe unique) weapon
+Browser game with Thor's son as main character and a magic helmet as main
+(maybe unique) weapon
 
 [1]: https://github.com/dominictarr/JSONStream
