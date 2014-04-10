@@ -79,9 +79,20 @@ What if the coffescript headlines are really implemented in a language spec?
 
 Hints
 
-*   `fun`
+*   `fn` is the new `function`
 *   no automatic semicolon
 *   no function named declaration
+*   `self` inside functions refer to the function itself (recursion)
+*   no `this`, no `new`, no classes, no inheritance, no prototype
+*   no globals: no Object, no Date, no Array
+*   no prototyped methods
+*   block scope, no hoisting
+
+Use `define` as the unique global:
+
+Revealed module pattern with caching, uses the same amount of memory
+as prototyped methods and is more versatile and less verbose thanks to
+the lexical scope
 
 ## Own programming languages
 
