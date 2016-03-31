@@ -1,4 +1,4 @@
-drafts
+Drafts
 ======
 
 Typed
@@ -16,21 +16,21 @@ Define function interfaces based on `typed`
 Create an API for function overloading based on one main function and multiple
 argument preprocessor functions
 
-knowledge dependency manager
+Knowledge Dependency Manager
 ----------------------------
 
 Online service / distributed system
 
 Bits of human worth reading knowledge ordered by dependency
 
-Mog
+MoG
 ---
 
-Markdown over git specification
+**Markdown over Git** specification
 
 A simple wiki system
 
-dungeon master assistant
+Dungeon Master Assistant
 ------------------------
 
 Web UI for `AD&D` masters
