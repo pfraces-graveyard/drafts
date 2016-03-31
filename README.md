@@ -1,38 +1,36 @@
-# drafts
+drafts
+======
 
-To do projects
+Typed
+-----
 
-# Libs
+Type system for JavaScipt inspired by _go interfaces_
 
-## Typed
+Argue
+-----
 
-Structure definions
-
-Checks based on *go interfaces*
-
-## Argue
+Function overloading for JavaScript
 
 Define function interfaces based on `typed`
 
 Create an API for function overloading based on one main function and multiple
 argument preprocessor functions
 
-# Services
+knowledge dependency manager
+----------------------------
 
-## knowledge dependency manager
+Online service / distributed system
 
 Bits of human worth reading knowledge ordered by dependency
 
-# Specs
+Mog
+---
 
-## Mog
+Markdown over git specification
 
-Markdown over git
+A simple wiki system
 
-A simple spec for wiki systems
-
-# Games
-
-## dungeon master assistant
+dungeon master assistant
+------------------------
 
 Web UI for `AD&D` masters
