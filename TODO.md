@@ -1,6 +1,27 @@
 TODO
 ====
 
+Higlights
+---------
+
+  * ngl
+      * publish minified sources
+      * ngl.is + ngl.fp / ngl.lodash ?
+  * umdify (wip: mu.is)
+  * centralize starters in base.prj recipes
+  * module2
+      * load sources from URLs
+      * submodules + nodejs support
+  * module.lodash: wrap lodash in mujs modules
+      * Lodash npm package builder
+      * Lodash fp builder
+  * freddie refactor
+  * git-install refactor
+  * Sanstorm + Gitlab + WeKan
+  * Ember
+  * TypeScript
+  * Atom
+
 Centralize tasks
 ----------------
 
@@ -108,6 +129,7 @@ Drafts
   * DOM-based Window Manager
   * Spaghetti: Workers + Virtual DOM
   * module-ng: submodules, umd
+  * script to fix package.json dependencies versions
 
 JavaScript
 ----------
