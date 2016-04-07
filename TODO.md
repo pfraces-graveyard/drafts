@@ -14,25 +14,8 @@ Centralize tasks
   * [labs](https://github.com/pfraces-labs)
   * [deprecated](https://github.com/pfraces-deprecated)
 
-### Services
-
-  * [SandStorm](https://github.com/sandstorm-io/sandstorm)
-  * [Gitlab](https://gitlab.com/gitlab-org/gitlab-ce/)
-  * [WeKan](https://github.com/wekan/wekan)
-
-### Hosting
-
-  * [Linode](https://www.linode.com/pricing)
-  * [Heroku](https://www.heroku.com/pricing)
-
 Projects
 --------
-
-  * git-install
-  * scaffold
-  * freddie
-  * reset.css
-  * browserify.prj: project starter
 
 ### mujs
 
@@ -45,16 +28,6 @@ Projects
   * types
   * signatures
   * function overloading
- 
-`module.umdify`
-
-```js
-if (typeof module === 'object') { /* node */ }
-else if (typeof module === 'function') { /* browser mujs/module */ }
-else if (typeof self === 'object') { /* browser worker global */ }
-else if (typeof window === 'object') { /* browser global */ }
-else { throw Error('unable to register module: unknown environment'); }
-```
 
 Finish project
 
@@ -64,51 +37,6 @@ Finish project
   * documentation
   * [Github Pages](https://pages.github.com/)
   * publish packages: npm, bower
-
-### fp
-
-  * iteratee first
-  * inmutable data mutation
-  
-3-dimension helpers
-
-  * Binary: `function (a, b) { ... }`
-  * List: `function (list) { ... }` (reduce using binary methods)
-  * Tree: `function (tree) { ... }` (recursive traversal using list methods)
-
-### LightScript
-
-  * [spec](https://github.com/pfraces-wip/LightScript/blob/master/README.md)
-  * standard library
-
-### ngl
-
-  * style guide
-  * project starter
-  * request
-  * Angular Mock
-
-### Misc
-
-  * dotfiles
-  * Theater Mode
-  * Gotick
-
-Drafts
-------
-
-  * Listme (task manager)
-  * Moghub (documentation server)
-  * Inca (scriptable browser)
-  * Wed (code editor)
-  * Ytv (Youtube remote commander)
-  * Mtgo (Magic Online)
-  * Tufo
-  * Grid (communication aid boards)
-  * DOM-based Window Manager
-  * Spaghetti: Workers + Virtual DOM
-  * module-ng: submodules, umd
-  * script to fix package.json dependencies versions
 
 JavaScript
 ----------
@@ -184,13 +112,6 @@ XP
   * TDD
   * Agile Estimations
   * Extreme Programming Explained
-
-Code Evenings
--------------
-
-  * Functional JavaScript
-  * Modular JavaScript
-  * Angular 1.x introduction
 
 Project Management
 ------------------
