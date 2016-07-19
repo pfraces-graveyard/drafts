@@ -25,6 +25,6 @@ References
 
 Inspiration comes from 3 different text editors:
 
-  * slap: terminal-based nodejs-powered sublime-like text editor
-  * neovim: aggressive refactor of vim with libuv for non-blocking I/O
-  * acme/wily: mouse-driven editor integrated with underlying shell
+  * [slap](https://github.com/slap-editor/slap): terminal-based nodejs-powered sublime-like text editor
+  * [neovim](https://neovim.io/): aggressive refactor of vim with libuv for non-blocking I/O
+  * [wily](http://www.cs.yorku.ca/~oz/wily/index.html): unix port of acme
