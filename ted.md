@@ -17,6 +17,7 @@ with the mission to provide a full IDE-like text editing environment
   * window system
   * autocompletion
   * debugger
+  * themes
   * ...
   
 References
