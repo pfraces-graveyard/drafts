@@ -38,6 +38,14 @@ Basic implementations of widely spreaded frameworks over time. For learning purp
 - **Already implemented:** <https://github.com/mujs>
 - **Under construction:** <https://github.com/diyjs>
 
+## What Do I Have In My Fridge?
+
+Get recipes for the ingredients you already have
+
+## YTV
+
+YouTube remote controller
+
 ## Dungeon Master Assistant
 
 Web UI for `AD&D` masters
