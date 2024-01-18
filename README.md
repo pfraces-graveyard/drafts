@@ -31,6 +31,18 @@ Like Wikipedia but only for data, without prose
 
 A simple wiki system
 
+## Gitask
+
+Git-powered text-based trello-like taskboards
+
+Manage your tasks from text files in a git repo
+
+Why?
+
+- Data-driven, anyone can create a UI on top
+- Versioned: Don't miss a bit of data
+- Self-hosted: Unlimited instances. Easy to migrate. Do not worry about a 3rd party service shooting down
+
 ## MuJS
 
 Basic implementations of widely spreaded frameworks over time. For learning purposes
